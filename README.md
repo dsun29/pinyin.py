@@ -1,7 +1,7 @@
 pinyin.py
 =========
 
-汉字转拼音,With Python
+汉字转拼音 -- Python 3-compatible
 
 
 Example:
